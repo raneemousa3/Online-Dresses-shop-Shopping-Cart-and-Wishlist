@@ -22,8 +22,7 @@ The **Online Dresses Shopping Cart and Wishlist** is a C++ application that simu
   - Manage multiple product types (dresses, skirts) using inheritance.
   - Move Products between the shopping cart and wishlist 
   - Attributes include name, price, size, color, and quantity.
-    
-## ✨ UML Diagram
+
 📦 **UML Diagram**
 -------------------------
 ![Blank diagram (3)](https://github.com/user-attachments/assets/10fb2da7-980f-48c8-8de1-c3380a664e8a)
