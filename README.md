@@ -23,11 +23,15 @@ The **Online Dresses Shopping Cart and Wishlist** is a C++ application that simu
   - Move Products between the shopping cart and wishlist 
   - Attributes include name, price, size, color, and quantity.
     
-##  🎯  In Process
-Add a graphical user interface (GUI) for a better user experience.
+## ✨ UML Diagram
+📦 **UML Diagram**
+-------------------------
 ![Blank diagram (3)](https://github.com/user-attachments/assets/10fb2da7-980f-48c8-8de1-c3380a664e8a)
 
 ---
+
+##  🎯  In Process
+Add a graphical user interface (GUI) for a better user experience.
 
 ## 🏗️ Project Structure
 This project uses a modular design, separating logic into manageable components:
