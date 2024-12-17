@@ -2,17 +2,17 @@
 # 🛒 Online Dresses Shopping Cart and Wishlist
 
 ## 📖 Overview
-The **Online Dresses Shopping Cart and Wishlist** is a C++ application that simulates an online shopping experience for dresses. Users can manage their shopping cart and wishlist by adding, viewing, and removing products while calculating total costs. This project demonstrates object-oriented programming principles, such as inheritance and polymorphism.
+The **Online Dresses Shopping Cart and Wishlist** is a C++ application that simulates an online shopping experience for dresses. Users can manage their shopping cart and wishlist by adding, viewing, and removing products while calculating total costs. This project demonstrates object-oriented programming principles, such as inheritance, polymorphism and linked lists.
 
 ---
 
 ## ✨ Features
 - **Shopping Cart**:
-  - Add dresses and skirts to the cart.
-  - View all items with details (price, size, color, etc.).
-  - Calculate the total price of all items in the cart.
-  - Update or reduce item quantities.
-  - Remove items from the cart.
+  - Add dresses, skirts, tops, and accessories to the cart #### addProduct()
+  - View all items with details (price, size, color, etc.) #### viewItems()
+  - Calculate the total price of all items in the cart. #### calculateTotal()
+  - Update or reduce item quantities.   #### reduceQuantity()
+  - Remove items from the cart.  #### removeItem
 
 - **Wishlist**:
   - Save favorite items for future consideration.
