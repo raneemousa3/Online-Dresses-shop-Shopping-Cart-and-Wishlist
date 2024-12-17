@@ -8,7 +8,7 @@ The **Online Dresses Shopping Cart and Wishlist** is a C++ application that simu
 
 ## ✨ Features
 - **Shopping Cart**:
-  - Add dresses, skirts, tops, and accessories to the cart #### addProduct()
+  - Add dresses, skirts, tops, and accessories to the cart ####addProduct()
   - View all items with details (price, size, color, etc.) #### viewItems()
   - Calculate the total price of all items in the cart. #### calculateTotal()
   - Update or reduce item quantities.   #### reduceQuantity()
