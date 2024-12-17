@@ -49,6 +49,8 @@ This project uses a modular design, separating logic into manageable components:
 ├── 📄 skirt.cpp        # Implementation of child Skirt class
 ├── 📄 Accessories.h    # Header file for the child Accessories class
 ├── 📄 Accessories.cpp  # Implementation of child Accessories class
+├── 📄 cart.h           # Header file for the parent Cart class
+├── 📄 cart.cpp         # Implementation of parent Cart methods
 ├── 📄 ShoppingCart.h   # Header file for the ShoppingCart class
 ├── 📄 ShoppingCart.cpp # Implementation of ShoppingCart methods
 ├── 📄 Wishlist.h       # Header file for the Wishlist class
